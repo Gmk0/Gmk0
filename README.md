@@ -50,6 +50,5 @@ I build SaaS products, mobile apps and payment integrations for African markets 
 
 ## 📫 Contact
 
-- ✉️ gmkmk2025@gmail.com
 - 🌐 Website: https://georgesmubemba.com
  

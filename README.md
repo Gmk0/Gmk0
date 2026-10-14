@@ -31,9 +31,10 @@ I build SaaS products, mobile apps and payment integrations for African markets 
 |---|---|---|
 | **[HotelGenie](https://hotelgenie.pro)** | Hotel management SaaS — bookings, rooms, staff | Flutter · Next.js |
 | **SmartArchive** | Multi-tenant document management SaaS | NestJS · PostgreSQL · R2 |
-| **Prezpay** | Mobile Money payment gateway for DRC merchants | NestJS · Laravel |
-| **Onyumba** | Real-estate & short-stay booking platform | React Native / Expo |
-| **FIND Stage & Job** | Job & internship search app for the DRC | React Native / Expo · Supabase |
+| **[Prezpay](https://prezpay.com)** | Mobile Money payment gateway for DRC merchants | NestJS · Laravel |
+| **[Onyumba](https://onyumba.com)** | Real-estate & short-stay booking platform | React Native / Expo |
+| **[FIND Stage & Job](https://findafrik.com)** | Job & internship search app for the DRC | React Native / Expo · Supabase |
+| **[Mboka Fresh](https://www.mbokafresh.com/)** | Online marketplace for agricultural products in Kinshasa | Flutter |
 
 > 📌 See my pinned repositories below for code samples.
 
@@ -51,4 +52,3 @@ I build SaaS products, mobile apps and payment integrations for African markets 
 ## 📫 Contact
 
 - 🌐 Website: https://georgesmubemba.com
- 

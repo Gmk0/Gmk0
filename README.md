@@ -3,6 +3,7 @@
 **Full-stack developer & technical lead based in Kinshasa, DRC 🇨🇩**
 I build SaaS products, mobile apps and payment integrations for African markets — from the database to the App Store.
 
+- 💼 CTO @ **Lama DRC Corporation**
 - 🏢 Founder @ **FIND CORPORATE** — building software for businesses in the DRC
 - 💳 Specialized in **Mobile Money** integrations (payment sessions, webhooks, reconciliation)
 - 🎓 Master's in Information Systems Design — Université Catholique du Congo · Google Data Analytics certified
@@ -32,7 +33,7 @@ I build SaaS products, mobile apps and payment integrations for African markets 
 | **SmartArchive** | Multi-tenant document management SaaS | NestJS · PostgreSQL · R2 |
 | **Prezpay** | Mobile Money payment gateway for DRC merchants | NestJS · Laravel |
 | **Onyumba** | Real-estate & short-stay booking platform | React Native / Expo |
-| **Dawago** | Telemedicine app — remote patient consultations | Mobile · iOS / Android |
+| **FIND Stage & Job** | Job & internship search app for the DRC | React Native / Expo · Supabase |
 
 > 📌 See my pinned repositories below for code samples.
 
@@ -50,4 +51,5 @@ I build SaaS products, mobile apps and payment integrations for African markets 
 ## 📫 Contact
 
 - ✉️ gmkmk2025@gmail.com
-- 🌐 Website: https://hotelgenie.pro
+- 🌐 Website: https://georgesmubemba.com
+ 
